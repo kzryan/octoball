@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://77flccq8crfo"
-path="res://.godot/imported/dribbling.png-1f525f6a8d23b89614fafa78f624dd7f.ctex"
+uid="uid://cd01x7a4vbgjy"
+path="res://.godot/imported/octoballgirl2.png-0246eda9fbc9b374b52202eb60c56b1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/dribbling.png"
-dest_files=["res://.godot/imported/dribbling.png-1f525f6a8d23b89614fafa78f624dd7f.ctex"]
+source_file="res://images/octoballgirl2.png"
+dest_files=["res://.godot/imported/octoballgirl2.png-0246eda9fbc9b374b52202eb60c56b1e.ctex"]
 
 [params]
 

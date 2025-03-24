@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://bmgww57e5bm8w"]
 
-[ext_resource type="Texture2D" uid="uid://bcj6ya03kjgf7" path="res://octoballgirl-default.png" id="1_4flbx"]
+[ext_resource type="Texture2D" uid="uid://dkh1yqxx4ip0g" path="res://images/octoballgirl-default.png" id="1_4flbx"]
 [ext_resource type="Script" uid="uid://bfipm6hyq0hty" path="res://player.gd" id="1_onrkg"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_onrkg"]

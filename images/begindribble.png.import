@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm1fu77rkla3y"
-path="res://.godot/imported/begindribble.png-d704e8f7430ce51646efd30c7a816553.ctex"
+path="res://.godot/imported/begindribble.png-b183802d965040f14d500691687733ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://begindribble.png"
-dest_files=["res://.godot/imported/begindribble.png-d704e8f7430ce51646efd30c7a816553.ctex"]
+source_file="res://images/begindribble.png"
+dest_files=["res://.godot/imported/begindribble.png-b183802d965040f14d500691687733ce.ctex"]
 
 [params]
 

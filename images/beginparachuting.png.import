@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blnmg07xhx86l"
-path="res://.godot/imported/beginparachuting.png-5ecef110aefb6a044c46ff16f58164eb.ctex"
+path="res://.godot/imported/beginparachuting.png-60a360b11b8229635b32d1d08776f97d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://beginparachuting.png"
-dest_files=["res://.godot/imported/beginparachuting.png-5ecef110aefb6a044c46ff16f58164eb.ctex"]
+source_file="res://images/beginparachuting.png"
+dest_files=["res://.godot/imported/beginparachuting.png-60a360b11b8229635b32d1d08776f97d.ctex"]
 
 [params]
 
