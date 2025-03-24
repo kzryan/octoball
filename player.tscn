@@ -1,0 +1,58 @@
+[gd_scene load_steps=5 format=3 uid="uid://bmgww57e5bm8w"]
+
+[ext_resource type="Texture2D" uid="uid://bcj6ya03kjgf7" path="res://octoballgirl-default.png" id="1_4flbx"]
+[ext_resource type="Script" uid="uid://bfipm6hyq0hty" path="res://player.gd" id="1_onrkg"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_onrkg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_4flbx")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"dribble",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"dribble-end",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"dribble-start",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"parachute",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"parachute-end",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"parachute-start",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_i3pqv"]
+radius = 82.8734
+
+[node name="Node2D" type="Area2D"]
+script = ExtResource("1_onrkg")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.3, 0.3)
+sprite_frames = SubResource("SpriteFrames_onrkg")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_i3pqv")
