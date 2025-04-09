@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqyx56xi7tcdn"
-path="res://.godot/imported/dribbling2.png-f64ee5f3f43503d07d98c976d404f7a0.ctex"
+uid="uid://b2ynr61qkkhb0"
+path="res://.godot/imported/stopparachuting2.png-22380fb365dca9553b9f3a7eba5bceab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/dribbling2.png"
-dest_files=["res://.godot/imported/dribbling2.png-f64ee5f3f43503d07d98c976d404f7a0.ctex"]
+source_file="res://images/stopparachuting2.png"
+dest_files=["res://.godot/imported/stopparachuting2.png-22380fb365dca9553b9f3a7eba5bceab.ctex"]
 
 [params]
 

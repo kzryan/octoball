@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2mhmqeqpmjei"
-path="res://.godot/imported/dribbling1.png-6696c3a770056d039954a3bd4fb19307.ctex"
+uid="uid://d3rogjtg1jg0s"
+path="res://.godot/imported/parachuting1.png-3e486f1e57997f8ff5494924156a3389.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/dribbling1.png"
-dest_files=["res://.godot/imported/dribbling1.png-6696c3a770056d039954a3bd4fb19307.ctex"]
+source_file="res://images/parachuting1.png"
+dest_files=["res://.godot/imported/parachuting1.png-3e486f1e57997f8ff5494924156a3389.ctex"]
 
 [params]
 

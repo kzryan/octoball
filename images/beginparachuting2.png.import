@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1kesnto3a3b"
-path="res://.godot/imported/begindribble3.png-d7b1698457e80765b7b88565cd110754.ctex"
+uid="uid://dsqrftgsrn5aw"
+path="res://.godot/imported/beginparachuting2.png-66680970eeb8ea624602b212c66fc927.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/begindribble3.png"
-dest_files=["res://.godot/imported/begindribble3.png-d7b1698457e80765b7b88565cd110754.ctex"]
+source_file="res://images/beginparachuting2.png"
+dest_files=["res://.godot/imported/beginparachuting2.png-66680970eeb8ea624602b212c66fc927.ctex"]
 
 [params]
 

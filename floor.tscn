@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://cx2cyvdqt7qhr"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_ryoud"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ryoud"]
+size = Vector2(874, 148)
+
+[sub_resource type="CanvasTexture" id="CanvasTexture_oj3tl"]
+specular_color = Color(0.253195, 0.783082, 0.43668, 1)
+
+[node name="Floor" type="StaticBody2D"]
+material = SubResource("CanvasItemMaterial_ryoud")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="."]
+position = Vector2(543, 461)
+shape = SubResource("RectangleShape2D_ryoud")
+debug_color = Color(0.851719, 0.317364, 0.504854, 0.42)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+self_modulate = Color(0.971171, 0.458614, 0.650971, 1)
+position = Vector2(543, 463.125)
+scale = Vector2(872, 152.25)
+texture = SubResource("CanvasTexture_oj3tl")
